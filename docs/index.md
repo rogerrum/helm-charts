@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the documentation for the [bjw-s Helm charts](https://github.com/rogerrum/helm-charts) project.
+Welcome to the documentation for the [rogerrum Helm charts](https://github.com/rogerrum/helm-charts) project.
 
 ## Getting started
 
@@ -11,10 +11,10 @@ Refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 ## Installation
 
 ```sh
-helm repo add bjw-s http://rogerrum.github.io/helm-charts/
+helm repo add rogerrum http://rogerrum.github.io/helm-charts/
 ```
 
-You can then run `helm search repo bjw-s` to search the charts.
+You can then run `helm search repo rogerrum` to search the charts.
 
 ## How do I find people running Kubernetes at home?
 
